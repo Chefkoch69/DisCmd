@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\DisCmd\DisCmd\bin\Debug\DisCmd.exe.config
+C:\Users\simon\Desktop\DisCmd\DisCmd\bin\Debug\DisCmd.exe
+C:\Users\simon\Desktop\DisCmd\DisCmd\bin\Debug\DisCmd.pdb
+C:\Users\simon\Desktop\DisCmd\DisCmd\bin\Debug\Anarchy.dll
+C:\Users\simon\Desktop\DisCmd\DisCmd\bin\Debug\Leaf.xNet.dll
+C:\Users\simon\Desktop\DisCmd\DisCmd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\DisCmd\DisCmd\bin\Debug\websocket-sharp.dll
+C:\Users\simon\Desktop\DisCmd\DisCmd\bin\Debug\Leaf.xNet.xml
+C:\Users\simon\Desktop\DisCmd\DisCmd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simon\Desktop\DisCmd\DisCmd\obj\Debug\DisCmd.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\DisCmd\DisCmd\obj\Debug\DisCmd.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\DisCmd\DisCmd\obj\Debug\DisCmd.csproj.CopyComplete
+C:\Users\simon\Desktop\DisCmd\DisCmd\obj\Debug\DisCmd.exe
+C:\Users\simon\Desktop\DisCmd\DisCmd\obj\Debug\DisCmd.pdb
